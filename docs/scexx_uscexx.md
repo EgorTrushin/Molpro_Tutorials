@@ -5,7 +5,7 @@ The `SCEXX` and `USCEXX` programs allow self-consistent exact-exchange calculati
 
 ---
 
-**NOTE:** We have tutorial which provides practical Hands-on examples about the use of `SCEXX` and `USCEXX` programs and post-processing of results of calculations. This tutorial is a good supplement to this documentation. [Link to Tutorial](https://github.com/EgorTrushin/tutorials/blob/main/EXX_OEP.ipynb)
+**NOTE:** We have tutorial which provides practical Hands-on examples about the use of `SCEXX` and `USCEXX` programs and post-processing of results of calculations. This tutorial is a good supplement to this documentation. [Link to Tutorial](https://github.com/EgorTrushin/Molpro_Tutorials/blob/main/EXX_OEP.ipynb)
 
 ---
 

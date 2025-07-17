@@ -5,7 +5,7 @@ The `SCRPA` and `USCRPA` programs allow spin-restricted and spin-unrestricted se
 
 ---
 
-**NOTE:** We have tutorial which provides practical Hands-on examples about the use of `SCRPA` and `USCRPA` programs and post-processing of results of calculations. This tutorial is a good supplement to this documentation. [Link to Tutorial](https://github.com/EgorTrushin/tutorials/blob/main/RPA_OEP.ipynb)
+**NOTE:** We have tutorial which provides practical Hands-on examples about the use of `SCRPA` and `USCRPA` programs and post-processing of results of calculations. This tutorial is a good supplement to this documentation. [Link to Tutorial](https://github.com/EgorTrushin/Molpro_Tutorials/blob/main/RPA_OEP.ipynb)
 
 ---
 
