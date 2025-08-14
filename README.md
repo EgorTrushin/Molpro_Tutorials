@@ -9,3 +9,4 @@ Implemented methods include:
 These tutorials are intended to illustrate the main functionality and post-processing of calculations. They complement the corresponding documentation in the Molpro manual, which we recommend to read first:
 - [SCEXX/USCEXX program](https://www.molpro.net/manual/doku.php?id=kohn-sham_random-phase_approximation#scexx_program)
 - [SCRPA/USCRPA program](https://www.molpro.net/manual/doku.php?id=kohn-sham_random-phase_approximation#scrpa_program)
+- [KSINV/UKSINV program](https://github.com/EgorTrushin/Molpro_Tutorials/ksinv_uksinv.md)
