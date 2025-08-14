@@ -8,7 +8,7 @@ The program is designed to work with densities provided by many-body methods suc
 
 ---
 
-**NOTE:** We have tutorial which provides practical Hands-on examples about the use of `KSINV` and `UKSINV` programs and post-processing of results of calculations. This tutorial is a good supplement to this documentation. [Link to Tutorial](https://github.com/EgorTrushin/tutorials/blob/main/KS_inversion.ipynb)
+**NOTE:** We have tutorial which provides practical Hands-on examples about the use of `KSINV` and `UKSINV` programs and post-processing of results of calculations. This tutorial is a good supplement to this documentation. [Link to Tutorial](https://github.com/EgorTrushin/Molpro_Tutorials/blob/main/KS_inversion.ipynb)
 
 ---
 
